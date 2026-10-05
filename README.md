@@ -8,7 +8,7 @@
 
 <a href="https://www.instagram.com/vctrswrld/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://www.linkedin.com/in/ananda-vektorino-129294385/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/vektorjoyce"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/vctrswrld"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
@@ -69,12 +69,12 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=vektorjoyce&theme=github-dark-blue&hide_border=true&background=00000000&locale=en" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=vctrswrld&theme=github-dark-blue&hide_border=true&background=00000000&locale=en" alt="GitHub Streak" />
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vektorjoyce&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vektorjoyce&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vctrswrld&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vctrswrld&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -85,9 +85,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vektorjoyce/vektorjoyce/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vektorjoyce/vektorjoyce/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/vektorjoyce/vektorjoyce/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vctrswrld/vctrswrld/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vctrswrld/vctrswrld/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/vctrswrld/vctrswrld/output/github-snake-dark.svg" />
 </picture>
 
 </div>
@@ -108,6 +108,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=vektorjoyce&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=vctrswrld&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile views" />
 
 </div>
