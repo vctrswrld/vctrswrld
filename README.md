@@ -39,7 +39,7 @@
 
 **Tools & Environment**
 
-<img src="https://skillicons.dev/icons?i=vercel,docker,ubuntu,terminal,vscode,figma" alt="Tools and environment" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" width="48" height="48" alt="DataGrip" style="margin-left: -4px;" />
+<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="vercel" /><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="docker" /><img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="ubuntu" /><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" /><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" width="48" height="48" alt="DataGrip" />
 
 </div>
 <br/>
