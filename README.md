@@ -39,8 +39,7 @@
 
 **Tools & Environment**
 
-<img src="https://skillicons.dev/icons?i=vercel,docker,ubuntu,terminal,vscode,figma" alt="Tools and environment" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" width="48" height="48" alt="DataGrip" />
+<img src="https://skillicons.dev/icons?i=vercel,docker,ubuntu,terminal,vscode,figma" alt="Tools and environment" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" width="48" height="48" alt="DataGrip" />
 
 </div>
 <br/>
