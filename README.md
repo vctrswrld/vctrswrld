@@ -29,11 +29,17 @@
 
 <div align="center">
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=android,ts,js,mysql,postgres,rust,docker,kubernetes" alt="Tools of the trade: Android, TypeScript, JavaScript, MySQL, PostgreSQL, Rust, Docker, and Kubernetes" /></a>
+**Frontend**
 
-<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend tools" />
 
-<a href="https://www.linkedin.com/in/ananda-vektorino-129294385/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=php,cpp,supabase,firebase,prisma,postgres,mysql" alt="Backend and database tools" />
+
+**Tools & Environment**
+
+<img src="https://skillicons.dev/icons?i=vercel,docker,ubuntu,windows,terminal,vscode,datagrip,figma" alt="Tools and environment" />
 
 </div>
 <br/>
